@@ -1,0 +1,15 @@
+{
+    "name": "plasmat-pixel/validation",
+    "description": "Form Validation package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "artemlepesch",
+            "email": "86205531+artemlepesch@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "larapack/dd": "^1.1"
+    }
+}
